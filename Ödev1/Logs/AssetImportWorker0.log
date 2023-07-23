@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Sinem KADAKAL/Desktop/Unity/Ödev1
+C:/Users/Sinem KADAKAL/Documents/GitHub/ArnavutkoyUnityWork/Ödev1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55910
-Successfully changed project path to: C:/Users/Sinem KADAKAL/Desktop/Unity/Ödev1
-C:/Users/Sinem KADAKAL/Desktop/Unity/Ödev1
+62676
+Successfully changed project path to: C:/Users/Sinem KADAKAL/Documents/GitHub/ArnavutkoyUnityWork/Ödev1
+C:/Users/Sinem KADAKAL/Documents/GitHub/ArnavutkoyUnityWork/Ödev1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,15 +47,15 @@ C:/Users/Sinem KADAKAL/Desktop/Unity/Ödev1
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [20380] Host "[IP] 192.168.1.104 [Port] 0 [Flags] 2 [Guid] 23306161 [EditorId] 23306161 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-2P7R48AF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [17440] Host "[IP] 192.168.1.104 [Port] 0 [Flags] 2 [Guid] 1568185885 [EditorId] 1568185885 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-2P7R48AF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [20380] Host "[IP] 192.168.1.104 [Port] 0 [Flags] 2 [Guid] 23306161 [EditorId] 23306161 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-2P7R48AF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [17440] Host "[IP] 192.168.1.104 [Port] 0 [Flags] 2 [Guid] 1568185885 [EditorId] 1568185885 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-2P7R48AF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 92.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 112.22 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Sinem KADAKAL/Desktop/Unity/Ödev1/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Sinem KADAKAL/Documents/GitHub/ArnavutkoyUnityWork/Ödev1/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -67,89 +67,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007290 seconds.
+Registered in 0.007471 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 126.07 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 93.12 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.822 seconds
+- Completed reload, in  0.903 seconds
 Domain Reload Profiling:
-	ReloadAssembly (822ms)
-		BeginReloadAssembly (110ms)
+	ReloadAssembly (903ms)
+		BeginReloadAssembly (206ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (594ms)
-			LoadAssemblies (107ms)
+		EndReloadAssembly (551ms)
+			LoadAssemblies (203ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (152ms)
+			SetupTypeCache (134ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (337ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (318ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (126ms)
+				RefreshPlugins (93ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (142ms)
-				ProcessInitializeOnLoadMethodAttributes (57ms)
+				ProcessInitializeOnLoadAttributes (154ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005777 seconds.
+Registered in 0.012721 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Sinem KADAKAL\Desktop\Unity\Ödev1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Sinem KADAKAL\Desktop\Unity\Ödev1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Sinem KADAKAL\Documents\GitHub\ArnavutkoyUnityWork\Ödev1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Sinem KADAKAL\Documents\GitHub\ArnavutkoyUnityWork\Ödev1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.269 seconds
+- Completed reload, in  1.352 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1270ms)
-		BeginReloadAssembly (126ms)
+	ReloadAssembly (1353ms)
+		BeginReloadAssembly (145ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (1026ms)
-			LoadAssemblies (84ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (1051ms)
+			LoadAssemblies (100ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (353ms)
+			SetupTypeCache (374ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (65ms)
-			SetupLoadedEditorAssemblies (467ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (420ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
 				BeforeProcessingInitializeOnLoad (113ms)
-				ProcessInitializeOnLoadAttributes (305ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3046 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (113.3 KB). Loaded Objects now: 3506.
+Unloading 24 unused Assets / (113.4 KB). Loaded Objects now: 3506.
 Memory consumption went from 107.5 MB to 107.4 MB.
-Total: 3.995800 ms (FindLiveObjects: 0.571600 ms CreateObjectMapping: 0.363800 ms MarkObjects: 2.926600 ms  DeleteObjects: 0.132000 ms)
+Total: 2.847500 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.176100 ms MarkObjects: 2.316200 ms  DeleteObjects: 0.109700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -164,379 +164,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 183670.215150 seconds.
-  path: Assets/CartoonLowPolyCityLite
-  artifactKey: Guid(bf8202d10a5abb74fb8f8040509b1b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite using Guid(bf8202d10a5abb74fb8f8040509b1b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad81736b3a9fff4c6432f69d679a197') in 0.017808 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.383022 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models
-  artifactKey: Guid(51fa6e138e5da07409149d7f0337fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models using Guid(51fa6e138e5da07409149d7f0337fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719cec022b5c1408f851b48878fee3c4') in 0.008189 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.068532 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models/BG.fbx
-  artifactKey: Guid(42c88fdbf5da8284b9f807363e99224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models/BG.fbx using Guid(42c88fdbf5da8284b9f807363e99224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c900fd1315470f59c31ea8e1789ae0d') in 0.502903 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models/Light_01.fbx
-  artifactKey: Guid(14fbcf0bb3a46ed49a445dded631ba60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models/Light_01.fbx using Guid(14fbcf0bb3a46ed49a445dded631ba60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc889b7c745f93a0983270a8765da51f') in 0.021622 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models/House_01.fbx
-  artifactKey: Guid(a34baf84612115744b387198099f13da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models/House_01.fbx using Guid(a34baf84612115744b387198099f13da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea8b4fa636f29b77391a25a467ef4eb') in 0.022008 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models/Road_10.fbx
-  artifactKey: Guid(b4425984c92dc7940bda507532f2531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models/Road_10.fbx using Guid(b4425984c92dc7940bda507532f2531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f64a7d948fb2b4a96afcb25218c31c9') in 0.019856 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/CartoonLowPolyCityLite/Models/Trash_01.fbx
-  artifactKey: Guid(0a0d02952336e2446af995ca257a42d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Models/Trash_01.fbx using Guid(0a0d02952336e2446af995ca257a42d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fafa99e2e0bf944f79d640622790a9') in 0.018107 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.068654 seconds.
-  path: Assets/CartoonLowPolyCityLite/Prefabs
-  artifactKey: Guid(7bd72cc63c2c32343a95dd65dd7936f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Prefabs using Guid(7bd72cc63c2c32343a95dd65dd7936f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596c20155bc5aedba089c3c13be5bbe9') in 0.007423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.064693 seconds.
-  path: Assets/CartoonLowPolyCityLite/Prefabs/BG.prefab
-  artifactKey: Guid(eda928f79ba6b9549ae9bb8ed004f92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Prefabs/BG.prefab using Guid(eda928f79ba6b9549ae9bb8ed004f92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96025d3705622433d842e28cc94640a') in 0.077325 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/CartoonLowPolyCityLite/Prefabs/Road_02.prefab
-  artifactKey: Guid(0fe65fec31a96cc49a3146a03f035c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Prefabs/Road_02.prefab using Guid(0fe65fec31a96cc49a3146a03f035c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fb702818fa9c6b2c8714a39e1763d8') in 0.021980 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/CartoonLowPolyCityLite/Prefabs/Light_01.prefab
-  artifactKey: Guid(cf29fabe5be425d4fa58702a405410ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Prefabs/Light_01.prefab using Guid(cf29fabe5be425d4fa58702a405410ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc1a0b7d8380df21774398518f11784') in 0.092091 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.143595 seconds.
-  path: Assets/CartoonLowPolyCityLite/Materials
-  artifactKey: Guid(8a29a6828edfa244195503521271ff7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Materials using Guid(8a29a6828edfa244195503521271ff7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a351bf2252e37fa0caddcf5a51063378') in 0.007944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.079646 seconds.
-  path: Assets/CartoonLowPolyCityLite/Materials/CartoonLowPolyCityLite_01.mat
-  artifactKey: Guid(c8e0240e9684da34f8e797593fcd659e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Materials/CartoonLowPolyCityLite_01.mat using Guid(c8e0240e9684da34f8e797593fcd659e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ae44611aefe9c91bc1cddb4a6b85bc') in 0.041766 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.928113 seconds.
-  path: Assets/CartoonLowPolyCityLite/Textures
-  artifactKey: Guid(1416feb0a875a554a965964f98c37de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Textures using Guid(1416feb0a875a554a965964f98c37de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f1da04bc94867bc44248b30971e4ea') in 0.007688 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.080394 seconds.
-  path: Assets/CartoonLowPolyCityLite/Textures/Texture_01.png
-  artifactKey: Guid(7d3c93d6e21f47d498be60cc5afb13e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Textures/Texture_01.png using Guid(7d3c93d6e21f47d498be60cc5afb13e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61dc5b5a06a4aa2b8de8bce311225482') in 0.020186 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.608600 seconds.
-  path: Assets/CartoonLowPolyCityLite/Scenes
-  artifactKey: Guid(827e9e3a2a9d1044d855c70191efdee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Scenes using Guid(827e9e3a2a9d1044d855c70191efdee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e131bb9215eb8b9683c3b1dd6cd0cc44') in 0.008165 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.884431 seconds.
-  path: Assets/CartoonLowPolyCityLite/Scenes/CartoonLowPolyCityLite_01.unity
-  artifactKey: Guid(1c9c83f564538dd49ac0614cb5d27d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CartoonLowPolyCityLite/Scenes/CartoonLowPolyCityLite_01.unity using Guid(1c9c83f564538dd49ac0614cb5d27d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44fdd0beeb467810c8486b93a317bd2') in 0.007058 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.815093 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.001989 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.700899 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.006982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 42.412408 seconds.
-  path: Assets/Palmov Island
-  artifactKey: Guid(c65af500465d90a45b568a9383499afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island using Guid(c65af500465d90a45b568a9383499afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fa948823b56efb4cefc81936eaa7bd') in 0.008770 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.082293 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park
-  artifactKey: Guid(7b942ddbb3b044307b143dcb9741210b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park using Guid(7b942ddbb3b044307b143dcb9741210b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0522ef04e7562a3b5be1ce1d273698bf') in 0.008684 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.529330 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs
-  artifactKey: Guid(7f94265d280321f4f99b5e18b5821248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs using Guid(7f94265d280321f4f99b5e18b5821248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe929823aabd8ccba2eb21b5258f92ac') in 0.001872 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.143945 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment
-  artifactKey: Guid(85fbfcdfc0a220f48bb1448060262cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment using Guid(85fbfcdfc0a220f48bb1448060262cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '459c871b43821baa4fb5dd7745947b1f') in 0.007180 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.097015 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/bench 1.prefab
-  artifactKey: Guid(01d6e8ec967d2c844920925bdebf5c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/bench 1.prefab using Guid(01d6e8ec967d2c844920925bdebf5c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5fde0f1917eef70478aa0e963babaf') in 0.014582 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/lamppost.prefab
-  artifactKey: Guid(f7ff35a5deb7e914fabf51eee4e649a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/lamppost.prefab using Guid(f7ff35a5deb7e914fabf51eee4e649a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8164f37f72f3fe8ac9844e7aa67a985') in 0.016764 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/trash can 1.prefab
-  artifactKey: Guid(b5a4dc2ebf390d64eb973263e3c3963c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/trash can 1.prefab using Guid(b5a4dc2ebf390d64eb973263e3c3963c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118b30449fc1cca4b663b7cf2eec3df4') in 0.020102 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/trash can 2.prefab
-  artifactKey: Guid(1963cbb9ecc2b5b4d81710b529cf1d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/trash can 2.prefab using Guid(1963cbb9ecc2b5b4d81710b529cf1d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052a805aa55d377d39da46f4301d381e') in 0.018964 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/wooden bench.prefab
-  artifactKey: Guid(05373ac36ded04d44a3640892fe02beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/wooden bench.prefab using Guid(05373ac36ded04d44a3640892fe02beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc6beb603bbfbcad3edef96619ce509') in 0.018272 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/fountain 3.prefab
-  artifactKey: Guid(173b1027a6d1ed544a1379cedb067a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/fountain 3.prefab using Guid(173b1027a6d1ed544a1379cedb067a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad6b20f874c1252ad71657fcfdc1d19') in 0.021334 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/fountain 1.prefab
-  artifactKey: Guid(938a37fc0e3a5974b8a96388176b1672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Environment/fountain 1.prefab using Guid(938a37fc0e3a5974b8a96388176b1672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f970bccc1464aef65803d1dc0b581d') in 0.015586 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.477113 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass
-  artifactKey: Guid(cdfd1851af427c64b984c1dcf94ec3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass using Guid(cdfd1851af427c64b984c1dcf94ec3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9950d820696a2bf400a2cb81c619c281') in 0.008281 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.029203 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass/grass 1.prefab
-  artifactKey: Guid(d9c6727f3721c5a4086ad394d37bb744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass/grass 1.prefab using Guid(d9c6727f3721c5a4086ad394d37bb744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9ad26ec2d75e3ba29d5307dd93eed3') in 0.013927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass/grass 3.prefab
-  artifactKey: Guid(967e41698de928e4c80fc36cc7741738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Grass/grass 3.prefab using Guid(967e41698de928e4c80fc36cc7741738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96a235396e2f316482d53c44a648e07') in 0.017431 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.207643 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds
-  artifactKey: Guid(db6fb602ce1b6f343b85e85f767fa282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds using Guid(db6fb602ce1b6f343b85e85f767fa282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806914c7eb6649f020e6dc7384a8411e') in 0.007449 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.063029 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 1.prefab
-  artifactKey: Guid(051365c13d09ee645ab09370b6b02383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 1.prefab using Guid(051365c13d09ee645ab09370b6b02383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da848b78d344d2a237cd7ba2274f16c') in 0.014292 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 5.prefab
-  artifactKey: Guid(95bfbd01be0392b4580b851a244b9a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 5.prefab using Guid(95bfbd01be0392b4580b851a244b9a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efdba2438ef84cb075f6e866edab799') in 0.017247 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 7.prefab
-  artifactKey: Guid(f92b35fdeb33f6c4b8f48f5f229138d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 7.prefab using Guid(f92b35fdeb33f6c4b8f48f5f229138d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e8d04946d00c9fc469ddc0cc260c52f') in 0.016942 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 6.prefab
-  artifactKey: Guid(b447369acae9efc40b035dbee56c8851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Park grounds/ground park 6.prefab using Guid(b447369acae9efc40b035dbee56c8851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b7684f809e32c3d83b9412851ef6a3d') in 0.016123 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.705622 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones
-  artifactKey: Guid(1a29abd0e150bbd49b03ccd2d4dd93d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones using Guid(1a29abd0e150bbd49b03ccd2d4dd93d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca4d751c5af1dd8fe9d8f79ab679a91') in 0.007643 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.062670 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones/stone 1.prefab
-  artifactKey: Guid(e279d3b56060181478049ff4e3cadcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones/stone 1.prefab using Guid(e279d3b56060181478049ff4e3cadcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336447d823943744c32e1896a8e59e47') in 0.014809 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones/stone 3.prefab
-  artifactKey: Guid(ce5fc1ae746770c48a546879d9226882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Stones/stone 3.prefab using Guid(ce5fc1ae746770c48a546879d9226882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea338a4fc4349c84b3a6d7f2c720867c') in 0.024944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.303869 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Materials
-  artifactKey: Guid(96cd29f72633e44468578a65da45060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Materials using Guid(96cd29f72633e44468578a65da45060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b3358d7ac01b17567c17628edd6ae6') in 0.002260 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.052323 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Materials/mat main.mat
-  artifactKey: Guid(63ac02641efdf374788d7d14242bde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Materials/mat main.mat using Guid(63ac02641efdf374788d7d14242bde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5601ae0f48ef8174723e28df871fafa3') in 0.013226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.249237 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Models
-  artifactKey: Guid(5512bbb5436b71a48b1c6518d32016ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Models using Guid(5512bbb5436b71a48b1c6518d32016ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f678c4c4e679ae3ac7d6523f0ed92b') in 0.002034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.542003 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Textures
-  artifactKey: Guid(7315e0f7ad452c440858d4f7eedf43c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Textures using Guid(7315e0f7ad452c440858d4f7eedf43c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a46da596ffd1ff210c036ee66bbb60') in 0.007333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.047695 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Textures/texture main.png
-  artifactKey: Guid(f9d4904e1d1dab641b4199371b58e2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Textures/texture main.png using Guid(f9d4904e1d1dab641b4199371b58e2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d932da0ba7f469724f73c3489e70834') in 0.010774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.305118 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Models/Grass
-  artifactKey: Guid(1e03b68d073b22a409ce9746eb53c253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Models/Grass using Guid(1e03b68d073b22a409ce9746eb53c253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2528a206a724441378fe0023ada621e') in 0.002289 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.071097 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Models/Grass/grass 1.fbx
-  artifactKey: Guid(05cee6315ff403c47b560042975f1dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Models/Grass/grass 1.fbx using Guid(05cee6315ff403c47b560042975f1dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c111487e43a8efd4b29d6b2e2a6057') in 0.015366 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Models/Grass/grass 3.fbx
-  artifactKey: Guid(6b7d8ff71597e884f92dee7df1d4572b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Models/Grass/grass 3.fbx using Guid(6b7d8ff71597e884f92dee7df1d4572b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0394f4e6771f09668c62e43f0c22c0cd') in 0.018628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 667.192587 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees
-  artifactKey: Guid(83666c7f73a0b5a40af6760174fbc16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees using Guid(83666c7f73a0b5a40af6760174fbc16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60aa62b9221630abc6dd0d05187d98b') in 0.008396 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.061743 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/birch tree.prefab
-  artifactKey: Guid(378f11e9a1701b044b0ec82ba9740347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/birch tree.prefab using Guid(378f11e9a1701b044b0ec82ba9740347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c748c5dcab520bc5257177e457606c') in 0.016083 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree round foliage.prefab
-  artifactKey: Guid(fea69626389bd194daaf921d168eefe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree round foliage.prefab using Guid(fea69626389bd194daaf921d168eefe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4d84d9104506d0d57eab828ccadafd') in 0.017127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/japanese deciduous tree.prefab
-  artifactKey: Guid(29d299ac32b5f83489084748c806a29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/japanese deciduous tree.prefab using Guid(29d299ac32b5f83489084748c806a29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdade3f6c1d0e370c351592a81e2b18f') in 0.017742 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/elongated tree.prefab
-  artifactKey: Guid(1c24bab945ee8164ba75c6fc6d2fa148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/elongated tree.prefab using Guid(1c24bab945ee8164ba75c6fc6d2fa148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c396b8ad3ab57abecfbfa6e3b53601a7') in 0.017141 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree orange foliage.prefab
-  artifactKey: Guid(7a3134ee04abb294291489477a09cec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree orange foliage.prefab using Guid(7a3134ee04abb294291489477a09cec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb19f2bafc9a37d9533cc50980805a72') in 0.016154 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree without leaves 2.prefab
-  artifactKey: Guid(cc9fadb8a79caa94992903911ee6d7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree without leaves 2.prefab using Guid(cc9fadb8a79caa94992903911ee6d7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444e8b9b6eea61dec39aa19a06555332') in 0.015468 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree oak.prefab
-  artifactKey: Guid(3279d46e98077ab44ab85e34b99064f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree oak.prefab using Guid(3279d46e98077ab44ab85e34b99064f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3632a05f5174dfcd2c65d5446d0520f5') in 0.016613 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/deciduous tree.prefab
-  artifactKey: Guid(9129eef4470bd584d8675065420e67fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/deciduous tree.prefab using Guid(9129eef4470bd584d8675065420e67fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2bed76397d604798566b7872fd43d2') in 0.016777 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/fir tree 1.prefab
-  artifactKey: Guid(a34c4b4b4b0e65342a85b342679c459b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/fir tree 1.prefab using Guid(a34c4b4b4b0e65342a85b342679c459b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c588bc80b444711cb7942ca31b519e') in 0.017284 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree white foliage.prefab
-  artifactKey: Guid(8f5153b17a46584468e856f9401155d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palmov Island/Low Poly Environment Park/Prefabs/Trees/tree white foliage.prefab using Guid(8f5153b17a46584468e856f9401155d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61345e3e2f69874b3272e1523cd679f0') in 0.017098 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 314.851548 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.007457 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.761940 seconds.
-  path: Assets/Materails
-  artifactKey: Guid(91049be02090c9c41b26a8092b2f4ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materails using Guid(91049be02090c9c41b26a8092b2f4ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ff9470a2872c4a6f362b4539dcce50') in 0.007250 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.972301 seconds.
+  Time since last request: 340036.798620 seconds.
   path: Assets/Materails/Grass.mat
   artifactKey: Guid(5d5aa42d9d781b5439816a601160ecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materails/Grass.mat using Guid(5d5aa42d9d781b5439816a601160ecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2638c768634778f413da494b9c2e4cb1') in 0.017135 seconds 
+Start importing Assets/Materails/Grass.mat using Guid(5d5aa42d9d781b5439816a601160ecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce32214f82592945783f94c078c3ae6') in 0.158301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1932.873833 seconds.
+  path: Assets/Materails/New Material.mat
+  artifactKey: Guid(62a6861cdf4b1884a86774a50af81828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materails/New Material.mat using Guid(62a6861cdf4b1884a86774a50af81828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137a17e1256a1b5268e5d8cadb93c981') in 0.024505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 139.178261 seconds.
+  path: Assets/Materails/ground.mat
+  artifactKey: Guid(62a6861cdf4b1884a86774a50af81828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materails/ground.mat using Guid(62a6861cdf4b1884a86774a50af81828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f13a8c8d0597168cdb4474477088083') in 0.019409 seconds 
